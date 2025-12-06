@@ -1,4 +1,4 @@
-# salesDash
+# Luxury Watch Brand Marketplace Analysis
 
 ### Sales Analysis Dashboard
 Focus: Retail/E-commerce Sales Analysis with Anomaly Detection
